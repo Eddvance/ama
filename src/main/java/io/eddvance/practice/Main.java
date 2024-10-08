@@ -46,6 +46,5 @@ public class Main {
                     System.out.println(translated);
                 }
                 //...finish the code
-
     }
 }
